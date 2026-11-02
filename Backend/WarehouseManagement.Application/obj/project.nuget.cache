@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jrny+9FlicE=",
+  "success": true,
+  "projectFilePath": "/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/WarehouseManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/minhhieu/.nuget/packages/bcrypt.net-next/4.2.0/bcrypt.net-next.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

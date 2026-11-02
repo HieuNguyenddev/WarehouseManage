@@ -1,0 +1,15 @@
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/bin/Debug/net10.0/WarehouseManagement.Application.deps.json
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/bin/Debug/net10.0/WarehouseManagement.Application.dll
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/bin/Debug/net10.0/WarehouseManagement.Application.pdb
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/bin/Debug/net10.0/WarehouseManagement.Domain.dll
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/bin/Debug/net10.0/WarehouseManagement.Domain.pdb
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/obj/Debug/net10.0/WarehouseManagement.Application.csproj.AssemblyReference.cache
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/obj/Debug/net10.0/WarehouseManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/obj/Debug/net10.0/WarehouseManagement.Application.AssemblyInfoInputs.cache
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/obj/Debug/net10.0/WarehouseManagement.Application.AssemblyInfo.cs
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/obj/Debug/net10.0/WarehouseManagement.Application.csproj.CoreCompileInputs.cache
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/obj/Debug/net10.0/Warehous.90404E57.Up2Date
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/obj/Debug/net10.0/WarehouseManagement.Application.dll
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/obj/Debug/net10.0/refint/WarehouseManagement.Application.dll
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/obj/Debug/net10.0/WarehouseManagement.Application.pdb
+/Users/minhhieu/Documents/ASP.NET/Warehouse-Manage/Backend/WarehouseManagement.Application/obj/Debug/net10.0/ref/WarehouseManagement.Application.dll
